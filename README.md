@@ -31,7 +31,7 @@
 	- For a list of possible streamType values, see the constants that start with the name “STREAM_” in the [AudioManager](https://developer.android.com/reference/android/media/AudioManager) class.
 
 	- For a list of possible durationHint values, see the constants in the parameter description of the [requestAudioFocus](https://developer.android.com/reference/android/media/AudioManager.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#requestAudioFocus(android.media.AudioManager.OnAudioFocusChangeListener,%20int,%20int))) method.	
-
+![](media.png)
 
 
 
